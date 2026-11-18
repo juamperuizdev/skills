@@ -19,7 +19,7 @@
 - Si consideras que una función Javascript es reutilizable, puedes incluirla en un archivo aparte junto con otros archivos javascript que se encuentran normalmente en `assets/js/`.
 - Los controladores se encuentran en `app/Controllers/`.
 - Los modelos y definiciones de tablas de base de datos se encuentran en `app/Models/`.
-- Las vistas se encuentran en `app/Views/`, y dentro podrás identificar estructuras como backend/<rol>/, frontend/, pdf/, mail/, pagers/, etc.
+- Las vistas se encuentran en `app/Views/`, y dentro podrás identificar estructuras como `backend/<rol>/`, `frontend/`, `pdf/`, `mail/`, `pagers/`, etc.
 
 ## Entorno de trabajo
 
