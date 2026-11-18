@@ -54,4 +54,3 @@
 - Resume qué has cambiado, qué riesgos quedan y qué comandos has ejecutado.
 - Si cambias comportamiento público, ofrece actualización de `README.md`. y espera la confirmación del usuario.
 - Si el usuario te pide añadir a `CHANGELOG.md` los cambios aplicados, si no existe un registro para el día actual, puedes crear uno nuevo para el día, siguiendo la numeración lógica del registro anterior. Si ya existe un registro para el día actual, pregunta al usuario si puedes añadirlo al registro existente. No modificarás el contenido, simplemente añadirás tus nuevas tareas para el día actual.
-- 
