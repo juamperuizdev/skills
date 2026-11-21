@@ -6,7 +6,7 @@ Colección de Skills de utilidad para el desarrollo de aplicaciones web. Contien
 
 ## Archivos de personalidad
 
-- [Desarrollador de aplicaciones web](AGENTS.md)
+- [AGENTS.md](AGENTS.md): Desarrollador de aplicaciones web.
 
 ## Skills
 
