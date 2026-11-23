@@ -11,6 +11,7 @@ Colección de Skills de utilidad para el desarrollo de aplicaciones web. Contien
 ## Skills
 
 - [Auditoría para CodeIgniter 4](skills/auditoria-codeigniter-4/README.md)
+- [Nueva entidad para CodeIgniter 4](skills/nueva-entidad-codeigniter-4/SKILL.md)
 
 ## Autor
 
