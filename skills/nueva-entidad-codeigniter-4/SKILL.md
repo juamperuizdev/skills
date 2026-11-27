@@ -1,5 +1,5 @@
 ---
-name: Nueva entidad CodeIgniter 4 (backend)
+name: nueva-entidad-codeigniter-4
 description: Genera el modelo, controlador, vistas de administración, rutas, menú y constantes para una nueva entidad partiendo de un migration o de un SQL en este proyecto CodeIgniter 4. Úsalo cuando pidan crear una entidad, un CRUD de administración o una sección nueva del backend.
 ---
 
